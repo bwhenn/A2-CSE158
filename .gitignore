@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+*.gz
+*.b
+*.bin
+*.zip
+*.tar
+*.tar.gz
+
+# OS junk
+.DS_Store
